@@ -1,26 +1,33 @@
-Landpage Halloween
+# 🎃 Landing Page Halloween – Projeto DevClub
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/AndersonGFrota/converso-de-moedas/blob/main/LICENSE) 
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/AndersonGFrota/Landpage-Halloween/blob/main/LICENSE)
+[![Author](https://img.shields.io/badge/Autor-Anderson%20Frota-lightgrey)](https://www.linkedin.com/in/andersongfrota)
 
-# Sobre o projeto
+## 📄 Sobre o projeto
 
- Landpage Halloween criado em estudos no **DevClub**, curso organizado pela [DevClub](https://rodolfomori.com.br/devclub-n1/ "Site da DevClub").
+Este projeto foi desenvolvido durante os estudos no curso **DevClub**, com o objetivo de aplicar conceitos de **HTML** e **CSS** criando uma landing page temática e responsiva para o Halloween.
 
-A aplicação consiste em dedsenvolver tecnicas aprendidas em curso.
+O foco principal foi trabalhar estrutura de layout, estilização visual e responsividade com base nos fundamentos ensinados em aula.
 
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/AndersonGFrota/Landpage-Halloween/blob/main/landpage%20halloween.png)
+---
 
-# Tecnologias utilizadas
+## 🖼️ Visual do projeto
 
-## Front end
-- Html 
-- Css
+![Mockup Halloween](https://github.com/AndersonGFrota/Landpage-Halloween/blob/main/landpage%20halloween.png)
 
+---
 
+## 🚀 Tecnologias utilizadas
 
-# Autor
+- HTML5  
+- CSS3  
 
-Anderson frota Goncalves
+---
 
-https://www.linkedin.com/in/anderson-frota-0016482aa/
+## 👨‍💻 Autor
+
+Desenvolvido por **Anderson Frota Gonçalves**  
+[LinkedIn](https://www.linkedin.com/in/andersongfrota)  
+[GitHub](https://github.com/AndersonGFrota)
+
+---
